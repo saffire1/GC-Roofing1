@@ -1,0 +1,6 @@
+{
+  "name": "GC Roofing",
+  "description": "Premium High-Converting Homepage Demo for GC Roofing, a roofing contractor in Belfast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
